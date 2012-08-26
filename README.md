@@ -5,8 +5,8 @@ It has an educative purpose.
 
 # Introducción
 
-* La práctica se va a implementar en Java 2 Estándar Edition (J2SE).
-* El alumno deberá implementar una interfaz gráfica en Swing que permita interactuar con el juego a partir de las clases y la lógica definida. No es necesario hacer  uso de hilos para implementar la práctica.
+* La práctica se va a implementar en **Java 2 Estándar Edition (J2SE)**.
+* El alumno deberá implementar una **interfaz gráfica en Swing** que permita interactuar con el juego a partir de las clases y la lógica definida. No es necesario hacer  uso de hilos para implementar la práctica.
 * La clase principal que abre la aplicación deberá llamarse "Tetris.class".
 
 # Mecánica del juego
