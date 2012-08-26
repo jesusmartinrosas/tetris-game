@@ -1,6 +1,5 @@
 package tetris;
 import java.util.*;
-import java.lang.*;
 
 public class Pieza {
 

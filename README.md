@@ -9,7 +9,7 @@ It has an educative purpose.
 * El alumno deberá implementar una interfaz gráfica en Swing que permita interactuar con el juego a partir de las clases y la lógica definida. No es necesario hacer  uso de hilos para implementar la práctica.
 * La clase principal que abre la aplicación deberá llamarse "Tetris.class".
 
-# Mecáca del juego
+# Mecánica del juego
 
 Distintos tetriminos, figuras geométricas compuestas por cuatro bloques cuadrados unidos de forma ortogonal, caen de la parte superior de la pantalla. El jugador no puede impedir esta caída pero puede decidir la rotación de la pieza (0º, 90º, 180º, 270º) y en qué lugar debe caer. Cuando una línea horizontal se completa, esa lía desaparece y todas las piezas que estápor encima descienden una posición, liberando espacio de juego y por tanto facilitando la tarea de situar nuevas piezas. La caída de las piezas se acelera progresivamente. El juego acaba cuando las piezas se amontonan hasta salir del área de juego.
 
